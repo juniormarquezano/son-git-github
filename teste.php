@@ -1,4 +1,4 @@
 <?php
 
-echo "Arquivo Teste"
+echo "Arquivo Teste";
 
